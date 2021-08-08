@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/material-ui-dashboard/static/css/main.2f66df2a.chunk.css",
+    "main.js": "/material-ui-dashboard/static/js/main.38a234f2.chunk.js",
+    "main.js.map": "/material-ui-dashboard/static/js/main.38a234f2.chunk.js.map",
+    "runtime-main.js": "/material-ui-dashboard/static/js/runtime-main.e0d8aefe.js",
+    "runtime-main.js.map": "/material-ui-dashboard/static/js/runtime-main.e0d8aefe.js.map",
+    "static/css/2.1881a404.chunk.css": "/material-ui-dashboard/static/css/2.1881a404.chunk.css",
+    "static/js/2.614bb96d.chunk.js": "/material-ui-dashboard/static/js/2.614bb96d.chunk.js",
+    "static/js/2.614bb96d.chunk.js.map": "/material-ui-dashboard/static/js/2.614bb96d.chunk.js.map",
+    "index.html": "/material-ui-dashboard/index.html",
+    "static/css/2.1881a404.chunk.css.map": "/material-ui-dashboard/static/css/2.1881a404.chunk.css.map",
+    "static/css/main.2f66df2a.chunk.css.map": "/material-ui-dashboard/static/css/main.2f66df2a.chunk.css.map",
+    "static/js/2.614bb96d.chunk.js.LICENSE.txt": "/material-ui-dashboard/static/js/2.614bb96d.chunk.js.LICENSE.txt",
+    "static/js/main.38a234f2.chunk.js.LICENSE.txt": "/material-ui-dashboard/static/js/main.38a234f2.chunk.js.LICENSE.txt",
+    "static/media/brian.29c2b9b9.jpg": "/material-ui-dashboard/static/media/brian.29c2b9b9.jpg",
+    "static/media/frenetiksicon.bcec2b9e.png": "/material-ui-dashboard/static/media/frenetiksicon.bcec2b9e.png",
+    "static/media/marc.e8607287.jpg": "/material-ui-dashboard/static/media/marc.e8607287.jpg",
+    "static/media/sidebar-1.0a127c58.jpg": "/material-ui-dashboard/static/media/sidebar-1.0a127c58.jpg",
+    "static/media/sidebar-2.22f68ba5.jpg": "/material-ui-dashboard/static/media/sidebar-2.22f68ba5.jpg",
+    "static/media/sidebar-3.e667b13e.jpg": "/material-ui-dashboard/static/media/sidebar-3.e667b13e.jpg",
+    "static/media/sidebar-4.dd4b5581.jpg": "/material-ui-dashboard/static/media/sidebar-4.dd4b5581.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0d8aefe.js",
+    "static/css/2.1881a404.chunk.css",
+    "static/js/2.614bb96d.chunk.js",
+    "static/css/main.2f66df2a.chunk.css",
+    "static/js/main.38a234f2.chunk.js"
+  ]
+}
